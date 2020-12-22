@@ -1,0 +1,45 @@
+DESCRIPTION :
+
+This is a car game in which the goal is to by pass the maximum number of trucks stood on the road. For each pair of truck bypassed the score is increased by one.
+
+TO START:
+
+To start the game click on Car_game.exe file 
+The python file is named Car_game.py
+hiscore.txt is a file for storing the highscore
+
+CONTROLS:
+
+The Up and Down Arrow keys help to move the car up and down so as to avoid the collision from truck 
+The left and right keys help to move the car left and right
+
+CHEAT CODE:
+
+Pressing the "1" key increases the score by 5 
+
+TO EXIT THE GAME:
+
+Click on the Cross button on the top right corner or press escape key to exit the game
+
+MODULES USED:
+
+1.Pygame         (for importing images,sounds,font,display....)
+
+2.Random         (for generating random trucks on road)
+
+3.Sys            (Using sys.exit() to exit the game)
+
+4.Os             (For finding the the file "hiscore.txt") 
+
+ACKNOOWLEDGEMENTS:
+
+1.Pygame Documentation referred for learning different pygame functions and modules
+
+2.freecodecamp.org(Youtube channel) helped to provide sites for finding flat images for game making and how to import images and implement them in program
+   (https://www.youtube.com/watch?v=FfWpgLFMI7w&t=880s)
+
+3.CodewithHarry(Youtube Channel) provided the complete playlist for learning pygame from basic
+  (https://www.youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb)
+SOURCES:
+
+All the image and sound sources are mentioned in the Car_Game file Under the name "sources".
