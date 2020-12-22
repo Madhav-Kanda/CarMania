@@ -4,8 +4,8 @@ This is a car game in which the goal is to by pass the maximum number of trucks 
 
 TO START:
 
-To start the game click on Car_game.exe file 
-The python file is named Car_game.py
+
+To start the game click the python file named Car_game.py and run the code
 hiscore.txt is a file for storing the highscore
 
 CONTROLS:
